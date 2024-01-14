@@ -85,4 +85,4 @@ driver.quit()
 ```
 
 Voici une capture d'écran que l'on peut obtenir en lançant le script
-![image](https://github.com/Natyuu/VV-ISTIC-TP5/assets/84011629/ed8a1395-6a48-4288-b1a5-77536e36e44b)
+![screenshot_10.png](https://github.com/Natyuu/VV-ISTIC-TP5/blob/main/screenshot_10.png)
